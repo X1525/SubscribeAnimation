@@ -1,3 +1,4 @@
-# SubscribeAnimation
+# Subscribe animation
 A subscribe animaton to use in YouTube videos.
-No copyright
+
+Just download the .m4a file and put it in your editor!
